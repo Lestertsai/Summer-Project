@@ -38,15 +38,15 @@ Since the same germ type would have the same response under a specific temperatu
 
 where a denotes a known species, b denotes the unknown one, and n is the total number of temperatures. Thus, the name of the unknown species is the germ that has the smallest distance with it.
 
-![](https://github.com/Lestertsai/Summer-project/blob/main/image5.png) 
-
 **The distribution of responses under different temperatures for species**
 
 To do so, please click the button of &quot;Scatter Plot&quot;. The newly pop-up window would outline all the germ types in the dataset, along with a joint plot option to display the distribution of two and more species. For instance, below is the scatter plot of L.d.bulgaricus.
 
-![](https://github.com/Lestertsai/Summer-project/blob/main/image7.png)
+![](https://github.com/Lestertsai/Summer-project/blob/main/image5.png)
 
 Figure 4 Scatter plot
+
+![](https://github.com/Lestertsai/Summer-project/blob/main/image5.png) 
 
 To display multiple germs, press the button of &quot;Joint Plot&quot;, and the result would be as follows.
 
