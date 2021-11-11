@@ -16,7 +16,7 @@ Rapid identification of unwanted microorganisms, especially pathogenic bacteria 
 
 Below is the window after executing the codes. It consists of three types of functions, which are calculation, scatter plot, and exist, respectively. To input data, please press the button of &quot;File&quot;. To view the input data, please press the button of &quot;Show Data&quot;.
 
-![](RackMultipart20211111-4-1j0r4e3_html_4e410b8c2b6e2533.png) ![](RackMultipart20211111-4-1j0r4e3_html_19bffaa5c63a71d9.png)
+![Window](C:/Users/蔡昭誼/Desktop/圖片1.png "Show") ![](RackMultipart20211111-4-1j0r4e3_html_19bffaa5c63a71d9.png)
 
 Figure 1 Layout of the window
 
