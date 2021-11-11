@@ -16,11 +16,11 @@ Rapid identification of unwanted microorganisms, especially pathogenic bacteria 
 
 Below is the window after executing the codes. It consists of three types of functions, which are calculation, scatter plot, and exist, respectively. To input data, please press the button of &quot;File&quot;. To view the input data, please press the button of &quot;Show Data&quot;.
 
-![Window](https://github.com/Lestertsai/Summer-project/blob/main/image1.png) ![](RackMultipart20211111-4-1j0r4e3_html_19bffaa5c63a71d9.png)
+![Window](https://github.com/Lestertsai/Summer-project/blob/main/image1.png) ![](https://github.com/Lestertsai/Summer-project/blob/main/image2.png)
 
 Figure 1 Layout of the window
 
-![](RackMultipart20211111-4-1j0r4e3_html_2ebe1ec14befa777.png)
+![](https://github.com/Lestertsai/Summer-project/blob/main/image3.png)
 
 Figure 2 Layout of the data
 
@@ -28,7 +28,7 @@ Figure 2 Layout of the data
 
 To do so, please click the button of &quot;Calculation&quot;. Then, the unknown germ type would appear based on the calculation.
 
-![](RackMultipart20211111-4-1j0r4e3_html_f30bbde3dc4ee6bb.png)
+![](https://github.com/Lestertsai/Summer-project/blob/main/image4.png)
 
 Figure 3 Identification of the species
 
@@ -38,11 +38,11 @@ Since the same germ type would have the same response under a specific temperatu
 
 where a denotes a known species, b denotes the unknown one, and n is the total number of temperatures. Thus, the name of the unknown species is the germ that has the smallest distance with it.
 
-![](RackMultipart20211111-4-1j0r4e3_html_63069f3a30b1e771.png) **The distribution of responses under different temperatures for species**
+![](https://github.com/Lestertsai/Summer-project/blob/main/image5.png) **The distribution of responses under different temperatures for species**
 
 To do so, please click the button of &quot;Scatter Plot&quot;. The newly pop-up window would outline all the germ types in the dataset, along with a joint plot option to display the distribution of two and more species. For instance, below is the scatter plot of L.d.bulgaricus.
 
-![Shape2](RackMultipart20211111-4-1j0r4e3_html_288a0e6870957c05.gif) ![](RackMultipart20211111-4-1j0r4e3_html_fb86c9012837d5f8.png)
+![Shape2](https://github.com/Lestertsai/Summer-project/blob/main/image6.png) ![](https://github.com/Lestertsai/Summer-project/blob/main/image7.png)
 
 Figure 4 Scatter plot
 
