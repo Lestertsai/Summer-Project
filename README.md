@@ -46,14 +46,15 @@ To do so, please click the button of &quot;Scatter Plot&quot;. The newly pop-up 
 <p float="left">
   <img src="https://github.com/Lestertsai/Summer-project/blob/main/image5.png" />
   <p>Figure 4 Scatter plot</p>
-  <img src="https://github.com/Lestertsai/Summer-project/blob/main/image7.png" /> 
+  <img src="https://github.com/Lestertsai/Summer-project/blob/main/image7.png" height=400px /> 
+  <p>Figure 5 Options of choices</p>
 </p>
 
 To display multiple germs, press the button of &quot;Joint Plot&quot;, and the result would be as follows.
 
 ![](https://github.com/Lestertsai/Summer-project/blob/main/image6.png)
 
-Figure 5 Scatter plot for multiple germs
+Figure 6 Scatter plot for multiple germs
 
 **Appendix**
 
