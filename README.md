@@ -50,6 +50,11 @@ Figure 4 Scatter plot
   <img src="https://github.com/Lestertsai/Summer-project/blob/main/image7.png" />
 </p>
 
+<p float="left">
+  <img src="https://github.com/Lestertsai/Summer-project/blob/main/image5.png" width="100" />
+  <img src="https://github.com/Lestertsai/Summer-project/blob/main/image7.png" width="100" /> 
+</p>
+
 To display multiple germs, press the button of &quot;Joint Plot&quot;, and the result would be as follows.
 
 ![](https://github.com/Lestertsai/Summer-project/blob/main/image6.png)
