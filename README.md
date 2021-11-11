@@ -1,5 +1,3 @@
-CHAO-YI TSAI, NATIONAL TAIPEI UNIVERSITY
-
 # Student Project
 
 **Title** : Development of a Cluster Analysis Algorithm to Analyze DNA High Resolution Melting (HRM) Profiles
@@ -64,6 +62,4 @@ Figure 6 Scatter plot for multiple germs
 
 1. Reja V., Kwok A., Stone G., Yang L., Missel A., Menzel C., Bassam B. 2010. ScreenClust: Advanced Statistical Software for Supervised and Unsupervised High Resolution Melting (HRM) Analysis. _Methods_ 50 (2010) S10–S14.
 2. Kanderian S., Jiang L., Knight I. 2015. Automated Classification and Cluster Visualization of Genotypes Derived from High Resolution Melt Curves. _PLoS One_: 10(11):e0143295.
-3. Velez D.O., Mack H., Jupe J., Hawker S., Kulkarni N., Hedayatnia B., Zhang Y., Lawrence S., Fraley S.I. 2017.
-#
-Massively Parallel Digital High Resolution Melt for Rapid and Absolutely Quantitative Sequence Profiling. _Sci Rep_.: 7:42326.
+3. Velez D.O., Mack H., Jupe J., Hawker S., Kulkarni N., Hedayatnia B., Zhang Y., Lawrence S., Fraley S.I. 2017. Massively Parallel Digital High Resolution Melt for Rapid and Absolutely Quantitative Sequence Profiling. _Sci Rep_.: 7:42326.
