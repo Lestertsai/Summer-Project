@@ -42,8 +42,9 @@ where a denotes a known species, b denotes the unknown one, and n is the total n
 
 To do so, please click the button of &quot;Scatter Plot&quot;. The newly pop-up window would outline all the germ types in the dataset, along with a joint plot option to display the distribution of two and more species. For instance, below is the scatter plot of L.d.bulgaricus.
 
-![](https://github.com/Lestertsai/Summer-project/blob/main/image5.png)
-
+<p align="left">
+  <img src="https://github.com/Lestertsai/Summer-project/blob/main/image5.png" />
+</p>
 Figure 4 Scatter plot
 <p align="right">
   <img src="https://github.com/Lestertsai/Summer-project/blob/main/image7.png" />
