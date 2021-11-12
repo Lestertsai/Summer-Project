@@ -34,6 +34,8 @@ Figure 3 Identification of the species
 
 Since the same germ type would have the same response under a specific temperature, the distance of responses under all the temperatures between the known germs and the unknown one were calculated to represent the difference between germs. To illustrate, let _T_ represents the temperature, then
 
+![my equation](https://github.com/Lestertsai/Summer-Project/blob/main/CodeCogsEqn.gif)
+
 where a denotes a known species, b denotes the unknown one, and n is the total number of temperatures. Thus, the name of the unknown species is the germ that has the smallest distance with it.
 
 **The distribution of responses under different temperatures for species**
